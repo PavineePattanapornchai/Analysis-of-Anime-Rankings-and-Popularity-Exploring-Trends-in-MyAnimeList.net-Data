@@ -1,0 +1,2 @@
+# Analysis-of-Anime-Rankings-and-Popularity-Exploring-Trends-in-MyAnimeList.net-Data
+This project analyzes an anime dataset from MyAnimeList.net, exploring the relationships between key variables such as episode count, popularity, and user scores. Using data cleaning, statistical analysis, and visualizations, the report uncovers trends in anime ratings, highlighting factors that impact how anime titles are evaluated.
